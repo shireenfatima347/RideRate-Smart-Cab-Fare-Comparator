@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RideRate-Smart-Cab-Fare-Comparator/static/css/main.88cf321f.css",
+    "main.js": "/RideRate-Smart-Cab-Fare-Comparator/static/js/main.b25436bf.js",
+    "static/js/453.4a5ae624.chunk.js": "/RideRate-Smart-Cab-Fare-Comparator/static/js/453.4a5ae624.chunk.js",
+    "index.html": "/RideRate-Smart-Cab-Fare-Comparator/index.html",
+    "main.88cf321f.css.map": "/RideRate-Smart-Cab-Fare-Comparator/static/css/main.88cf321f.css.map",
+    "main.b25436bf.js.map": "/RideRate-Smart-Cab-Fare-Comparator/static/js/main.b25436bf.js.map",
+    "453.4a5ae624.chunk.js.map": "/RideRate-Smart-Cab-Fare-Comparator/static/js/453.4a5ae624.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88cf321f.css",
+    "static/js/main.b25436bf.js"
+  ]
+}
